@@ -7,7 +7,7 @@ Segmenting FITS imaging with DS9 and shell scripting.
 ---
 
 <figure>
-  <img src="assets/segmentation.png" alt="FITS segmentation into smaller images." width="416">
+  <img src="assets/mosaic-ii-fits-file-segmentation.png" alt="FITS segmentation into smaller images." width="416">
   <figcaption>Figure 1. FITS file segmentation into smaller images. Data shown are public domain CTIO Blanco 4 m telescope, Mosaic II imaging, toward the Galactic bulge ([O III] on/off band RGB frames and corresponding difference frames).</figcaption>
 </figure>
 
@@ -250,8 +250,8 @@ Example, dual mode:
 ## Acknowledgements
 
 This work used public data from the US National Science Foundation's (NSF)
-[NOIRLab Astro Data Archive](https://astroarchive.noirlab.edu/). Those data were
-generated from observations at the NSF CTIO, NSF NOIRLab (NOIRLab Prop. ID
+[NOIRLab Astro Data Archive](https://astroarchive.noirlab.edu/). Those data
+were generated from observations at the NSF CTIO, NSF NOIRLab (NOIRLab Prop. ID
 2008A-0549; PI: Q. Parker), which the Association of Universities for Research
 in Astronomy (AURA) manages under a cooperative agreement with the US NSF. Data
 reduction was performed via Community IRAF. SAOImageDS9, developed by the
@@ -260,5 +260,6 @@ Smithsonian Astrophysical Observatory, was also used.
 ## References
 
 1. T. N. Stenborg, "DS9 FITS Segmentation with Linux and macOS Shell Script
-   Metaprogramming", in _Astron. Data Anal. Softw. Syst. XXXV_, K. Polsterer and
-   S. Wagner, Eds., Astronomical Society of the Pacific, (in press).
+   Metaprogramming", in _Astron. Data Anal. Softw. Syst. XXXV_, in Astronomical
+   Society of the Pacific Conference Series, K. Polsterer and S. Wagner, Eds.,
+   (in press).
