@@ -62,7 +62,7 @@ testing data.
 
 ### 1. fits-segmenter.sh
 
-The FITS segmenter was tested with the following system configurations.
+The FITS segmenter has been tested with the following system configurations.
 
 | Operating System                | DS9 Version                             |
 | :------------------------------ | :-------------------------------------- |
@@ -74,7 +74,7 @@ The FITS segmenter was tested with the following system configurations.
 
 ### 2. differencer.cl
 
-The IRAF Command Language script `differencer.cl` was tested with IRAF
+The IRAF Command Language script `differencer.cl` has been tested with IRAF
 community distribution 2.17.1, on Ubuntu 24.04.3.
 
 ## Installation
